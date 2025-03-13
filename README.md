@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Survey Engineering**
 
-- 🌱 I’m currently learning **Self-taught developer**
+- 🌱 I’m currently learning **Batam State Polytechnic**
 
 - 📫 How to reach me **davidsetiawanjaya@gmail.com**
 
