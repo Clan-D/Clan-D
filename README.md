@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Setiawan</h1>
-<h3 align="center">A Geomatic Engineering From Benfkulu Indonesia </h3>
+<h3 align="center">A Geomatic Engineering From Bengkulu, Indonesia </h3>
 
 - 🔭 I’m currently working on **Survey Engineering**
 
